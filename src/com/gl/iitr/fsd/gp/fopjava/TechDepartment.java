@@ -1,7 +1,7 @@
 package com.gl.iitr.fsd.gp.fopjava;
 
 public class TechDepartment extends SuperDepartment {
-	
+
 	public String departmentName() {
 		return "Hr Department";
 	}
